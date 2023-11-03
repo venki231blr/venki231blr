@@ -11,13 +11,11 @@ Am a DevOps enthusiast, with over 10 years of experience in Cloud and Devops fie
 <br />
 
 ### 📫 How to reach me
-
-[<img align="left" alt="hirevenki | Gmail" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][Gmail]
+<a href="mailto:hirevenki@gmail.com"> <img  align="left" alt="hirevenki | Gmail" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg"> </a>
 [<img align="left" alt="venkatesh-j-bb676b185 | LinkedIn" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
-[gmail]: hirevenki@gmail.com
 [linkedin]: https://linkedin.com/in/venkatesh-j-bb676b185
 
 <br />
