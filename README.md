@@ -27,6 +27,9 @@ Am a DevOps enthusiast, with over 10 years of experience in Cloud and Devops fie
 <a href="https://www.credly.com/badges/57e6b39e-600d-40fb-ab5e-07907ef1ea15/public_url" target="_blank" rel="noreferrer">
   <img src="https://images.credly.com/size/680x680/images/85b9cfc4-257a-4742-878c-4f7ab4a2631b/image.png" alt="Terraform" width="120" height="120"/> </a>
 
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/Venkij-1990/48340B158EDCA9BC?sharingId=436214FC6C6D70FF" target="_blank" rel="noreferrer">
+  <img src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="AZ-900 Azure Fundamentals" width="120" height="120"/> </a>
+
 </p>
 
 <br />
